@@ -4,11 +4,11 @@
 　
  * C# 資料庫連接
 
- * session & Cookie 
+ * Session & Cookie 
 
  * Get & Post
 
- * bootstrap應用
+ * Bootstrap應用
 
  * 第三方ａｐｉ串接
 
