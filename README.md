@@ -16,7 +16,7 @@
 
 
 ### 4.登入後首頁
-<img src="https://github.com/z83520/TestWeb/blob/main/jpg/%E7%99%BB%E5%85%A5%E5%BE%8C%E9%A6%96%E9%A0%81" width="50%">
+<img src="https://github.com/z83520/TestWeb/blob/main/jpg/%E7%99%BB%E5%85%A5%E5%BE%8C%E9%A6%96%E9%A0%81.jpg" width="50%">
 
 
 ### 5.後台
