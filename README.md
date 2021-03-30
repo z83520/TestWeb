@@ -1,11 +1,11 @@
 ## Bootstrap模板 + MSSQL + 第三方支付連接
 
 ### 此專案目前讓我學習到了
-C# 資料庫連接
-session & Cookie 
-Get & Post
-bootstrap應用
-第三方ａｐｉ串接
+　-　C# 資料庫連接
+　-　session & Cookie 
+　-　Get & Post
+　-　bootstrap應用
+　-　第三方ａｐｉ串接
 
 ### 1.首頁
 <img src="https://github.com/z83520/TestWeb/blob/main/jpg/%E9%A6%96%E9%A0%81.jpg" width="50%">
