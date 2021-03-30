@@ -1,7 +1,8 @@
 ## Bootstrap模板 + MSSQL + 第三方支付連接
 
 ### 此專案目前讓我學習到了
-　-　C# 資料庫連接
+　
+　* C# 資料庫連接
 　-　session & Cookie 
 　-　Get & Post
 　-　bootstrap應用
